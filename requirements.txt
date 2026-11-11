@@ -1,0 +1,6 @@
+pandas
+sqlite3
+requests
+BeautifulSoup
+flask
+python-dotenv
